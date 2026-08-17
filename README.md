@@ -77,10 +77,9 @@
 
 据我本人确认，我参与过 WUDE Personal Site 项目。这是一个使用原生 HTML、CSS 和 JavaScript 构建的工程作品与技术内容站，通过 GitHub Actions 生成静态内容快照并发布到 GitHub Pages。
 
-目前公开资料没有披露我负责的具体模块，因此这里只陈述参与关系和可验证的项目事实，不把团队成果表述为个人独立成果。
+目前公开资料没有披露我负责的具体模块，因此这里只陈述参与关系和可验证的项目事实，不把团队成果表述为个人独立成果。完整案例已整理到我自己的服务网站内，不再把访客导向第三方页面。
 
-- [访问 WUDE 项目](https://cs-wude.github.io/)
-- [查看公开仓库](https://github.com/CS-wude/CS-wude.github.io)
+- [在风雨独立站查看完整案例](https://wmc837911722-del.github.io/#wude-case-details)
 
 ## 发起商业合作
 
