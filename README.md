@@ -64,6 +64,15 @@
 3. 接入真实系统，完成稳定的工程交付
 4. 根据使用结果持续优化，并沉淀可交接能力
 
+## 当前公开项目
+
+### 风雨个人独立站
+
+这是我目前公开展示的自有工程项目，使用 React、TypeScript、Vite 与 GSAP 构建，并通过 GitHub Actions 自动部署到 GitHub Pages。项目包含响应式适配、静态预渲染、双托管链路和交互回归验证。
+
+- [访问网站](https://wmc837911722-del.github.io/)
+- [查看源码](https://github.com/wmc837911722-del/wmc837911722-del.github.io)
+
 ## 发起商业合作
 
 - QQ Mail：[837911722@qq.com](mailto:837911722@qq.com)
