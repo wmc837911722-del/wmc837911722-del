@@ -73,6 +73,15 @@
 - [访问网站](https://wmc837911722-del.github.io/)
 - [查看源码](https://github.com/wmc837911722-del/wmc837911722-del.github.io)
 
+### WUDE Personal Site｜参与项目
+
+据我本人确认，我参与过 WUDE Personal Site 项目。这是一个使用原生 HTML、CSS 和 JavaScript 构建的工程作品与技术内容站，通过 GitHub Actions 生成静态内容快照并发布到 GitHub Pages。
+
+目前公开资料没有披露我负责的具体模块，因此这里只陈述参与关系和可验证的项目事实，不把团队成果表述为个人独立成果。
+
+- [访问 WUDE 项目](https://cs-wude.github.io/)
+- [查看公开仓库](https://github.com/CS-wude/CS-wude.github.io)
+
 ## 发起商业合作
 
 - QQ Mail：[837911722@qq.com](mailto:837911722@qq.com)
